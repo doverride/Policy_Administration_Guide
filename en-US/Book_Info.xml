@@ -12,7 +12,7 @@
 	<pubsnumber>0</pubsnumber>
 	<abstract>
 		<para>
-			A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file.
+		  Security-Enhanced Linux is to a Linux Security Specialist what a scalpel is to a Surgeon. To effectively maintain SELinux security policy one requires knowledge on topics of security, Linux, and modern computing environments. This document is for aspiring Security-Enhanced Linux Policy Administrators that do not necessarily possess the aforementioned knowledge, but that want in-depth exploration on the topic of SELinux policy administration.
 		</para>
 	</abstract>
 	<corpauthor>
@@ -25,4 +25,3 @@
 	<xi:include href="Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 </bookinfo>
-
