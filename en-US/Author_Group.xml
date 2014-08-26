@@ -4,13 +4,13 @@
 %BOOK_ENTITIES;
 ]>
 <authorgroup>
-	<author>
-		<firstname>Dominick</firstname>
-		<surname>Grift</surname>
-		<affiliation>
-			<orgname>Unaffiliated</orgname>
-			<orgdiv>Individual</orgdiv>
-		</affiliation>
-		<email>dac.override@gmail.com</email>
-	</author>
+  <author>
+    <firstname>Dominick</firstname>
+    <surname>Grift</surname>
+    <affiliation>
+      <orgname>Unaffiliated</orgname>
+      <orgdiv>Individual</orgdiv>
+    </affiliation>
+    <email>dac.override@gmail.com</email>
+  </author>
 </authorgroup>

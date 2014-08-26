@@ -4,24 +4,24 @@
 %BOOK_ENTITIES;
 ]>
 <bookinfo id="book-Security-Enhanced_Linux-Policy_Administration_Guide-Policy_Administration_Guide">
-	<title>Policy Administration Guide</title>
-	<subtitle>Security-Enhanced Linux for aspiring Security Policy Administrators</subtitle>
-	<productname>Security-Enhanced_Linux</productname>
-	<productnumber>0.1</productnumber>
-	<edition>0</edition>
-	<pubsnumber>0</pubsnumber>
-	<abstract>
-		<para>
-		  Security-Enhanced Linux is to a Linux Security Specialist what a scalpel is to a Surgeon. To effectively maintain SELinux security policy one requires knowledge on topics of security, Linux, and modern computing environments. This document is for aspiring Security-Enhanced Linux Policy Administrators that do not necessarily possess the aforementioned knowledge, but that want in-depth exploration on the topic of SELinux policy administration.
-		</para>
-	</abstract>
-	<corpauthor>
-		<inlinemediaobject>
-			<imageobject>
-				<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
-			</imageobject>
-		</inlinemediaobject>
-	</corpauthor>
-	<xi:include href="Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <title>Policy Administration Guide</title>
+  <subtitle>Security-Enhanced Linux for aspiring Security Policy Administrators</subtitle>
+  <productname>Security-Enhanced_Linux</productname>
+  <productnumber>0.1</productnumber>
+  <edition>0</edition>
+  <pubsnumber>0</pubsnumber>
+  <abstract>
+    <para>
+      Security-Enhanced Linux is to a Linux Security Specialist what a scalpel is to a Surgeon. To effectively maintain SELinux security policy one requires knowledge on topics of security, Linux, and modern computing environments. This document is for aspiring Security-Enhanced Linux Policy Administrators that do not necessarily possess the aforementioned knowledge, but that want in-depth exploration on the topic of SELinux policy administration.
+    </para>
+  </abstract>
+  <corpauthor>
+    <inlinemediaobject>
+      <imageobject>
+        <imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
+      </imageobject>
+    </inlinemediaobject>
+  </corpauthor>
+  <xi:include href="Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 </bookinfo>
