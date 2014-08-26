@@ -12,7 +12,13 @@
   <pubsnumber>0</pubsnumber>
   <abstract>
     <para>
-      Security-Enhanced Linux is to a Linux Security Specialist what a scalpel is to a Surgeon. To effectively maintain SELinux security policy one requires knowledge on topics of security, Linux, and modern computing environments. This document is for aspiring Security-Enhanced Linux Policy Administrators that do not necessarily possess the aforementioned knowledge, but that want in-depth exploration on the topic of SELinux policy administration.
+      Security-Enhanced Linux is to a Linux Security Specialist what a
+scalpel is to a Surgeon. To effectively maintain SELinux security policy one
+requires knowledge on topics of security, Linux, and modern computing
+environments. This document is for aspiring Security-Enhanced Linux Policy
+Administrators that do not necessarily possess the aforementioned knowledge,
+but that want in-depth exploration on the topic of SELinux policy
+administration.
     </para>
   </abstract>
   <corpauthor>
